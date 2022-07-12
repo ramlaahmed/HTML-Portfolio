@@ -59,6 +59,11 @@ button:hover {
     background-color: rgba(169,0,155,0.8);
 }
 
+.img {
+    height: 4px;
+    width: 4px;
+}
+
 .logo{
     flex-direction: column;
     padding: 0;
