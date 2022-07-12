@@ -60,8 +60,8 @@ button:hover {
 }
 
 .portrait img{
-    height: 200px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
     margin-left: 15px;
     margin-top: 10px;
 }
@@ -69,8 +69,17 @@ button:hover {
     display: flex;
     flex-direction: row;
     margin-top: 15px;
+    border: solid;
+    margin-right: 15px;
+    margin-left: 15px;
+    justify-content: space-around;
 }
 
+.aboutme h1 {
+    margin-left: 40px;
+    text-decoration: underline;
+
+}
 .logo{
     flex-direction: column;
     padding: 0;
