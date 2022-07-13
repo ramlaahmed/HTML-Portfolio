@@ -41,7 +41,7 @@ header{
 }
 
 .nav_links li a:hover {
-    color: bisque;
+    color: pink;
 }
 
 button {
@@ -59,8 +59,8 @@ button:hover {
 }
 
 .portrait img{
-    height: 400px;
-    width: 400px;
+    height: 200px;
+    width: 200px;
     margin-left: 15px;
     margin-top: 10px;
 }
@@ -69,7 +69,7 @@ button:hover {
     flex-direction: row;
     margin-top: 15px;
     border: solid;
-    margin-right: 15px;
+    margin-right: 600px;
     margin-left: 15px;
     justify-content: space-around;
 }
@@ -78,6 +78,40 @@ button:hover {
     margin-left: 40px;
     text-decoration: underline;
 
+}
+
+.container2 {
+    display: flex; 
+    flex-grow: 4;
+    margin-top: 15px;
+    border: solid;
+    margin-right: 900px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+.myproject {
+    margin-right: 60px;
+    text-decoration: ;
+    font-size: 40 px;
+}
+
+.marketingimg {
+    height: px;
+    width: px;
+    margin-left: px;
+    margin-right: px;
+
+}
+
+.container3 {display: flex; 
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    border: solid;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 40px;
 }
 .logo{
     flex-direction: column;
