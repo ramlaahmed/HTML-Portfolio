@@ -213,7 +213,6 @@ h2 h3{
 
 .footer h1 {
     margin-left: 40px;
-    text-decoration: underline;
     font-size: 14px;
     
 }
@@ -224,8 +223,10 @@ h2 h3{
     border: solid;
     margin-right: 15px;
     margin-left: 15px;
-    margin-bottom: 40px;
+    margin-bottom: 15px;
     font-size: 14px;  
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .email, .github, .linkedin {
     margin-right: 10px;
