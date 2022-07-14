@@ -55,8 +55,8 @@ button:hover {
 }
 
 .portrait img{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     margin-left: 15px;
     margin-top: 10px;
 }
@@ -64,10 +64,9 @@ button:hover {
 .container1 {
     display: flex;
     flex-direction: row;
-    flex-direction: column;
     margin-top: 15px;
     border: solid;
-    margin-right: 1000px;
+    margin-right: 15px;
     margin-left: 15px;
     justify-content: space-around;
     font-size: 14px;
@@ -134,7 +133,7 @@ h2 {
     display: flow-root;
     margin-top: 15px;
     border: solid;
-    margin-right: 400px;
+    margin-right: 800px;
     margin-left: 2px;
     margin-bottom: 2px;
     font-size: 2px;
