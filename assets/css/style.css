@@ -82,15 +82,14 @@ button:hover {
     text-align: center;
 }
 
-.aboutme, h1 {
+.aboutMe, h1 {
     margin-left: 40px;
-    text-decoration: ;
     font-size: 16px;
     text-align: center;
 
 }
 
-.aboutmetext {
+.about-me p {
     margin-left:  15px;
     margin-right: 20px;
     text-align: center;
@@ -129,7 +128,7 @@ h2 {
     justify-content: space-around;
 }
 
-.marketingcontainer {
+.marketingContainer {
     display:flex;
     line-height: normal;
     display: flow-root;
@@ -140,6 +139,18 @@ h2 {
     margin-bottom: 2px;
     font-size: 2px;
     justify-content: space-around;
+}
+
+.marketing {
+    margin-left:  15px;
+    margin-right: 15px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.marketing img{
+    height: 400px;
+    width: 400px;
 }
 .javascript {
     display:flex;
@@ -154,7 +165,7 @@ h2 {
     justify-content: space-around;
 }
 
-.weba {
+.webApi {
     display:flex;
     line-height: normal;
     display: flow-root;
@@ -168,7 +179,7 @@ h2 {
 
 }
 
-.myproject {
+.myProject {
     margin-right: 60px;
     font-size:  12px;
     
@@ -179,7 +190,7 @@ h2 h3{
     font-size: 14px;
 }
 
-.marketingimg {
+.marketing Img {
     height: px;
     width: px;
     margin-left: px;
@@ -198,9 +209,6 @@ h2 h3{
     float: left;
     width: 25%;
     height: 280px;
-}
-input {
-    
 }
 
 .footer h1 {
