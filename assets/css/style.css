@@ -65,9 +65,17 @@ button:hover {
     flex-direction: row;
     margin-top: 15px;
     border: solid;
-    margin-right: 600px;
+    margin-right: 1000px;
     margin-left: 15px;
     justify-content: space-around;
+}
+.container1 {
+    flex-direction: column;
+    
+}
+.container1 li{
+    color: black;
+    size: 6px;
 }
 
 .aboutme h1 {
@@ -75,15 +83,28 @@ button:hover {
     text-decoration: underline;
 
 }
+.container2 h1{
+    margin-left: 20px;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.marketingimg {
+    height: px;
+    width: px;
+    margin-left: px;
+    margin-right: px;
+
+}
 
 .container2 {
     display: flex; 
-    flex-grow: 4;
+    flex-direction: row;
     margin-top: 15px;
     border: solid;
-    margin-right: 900px;
+    margin-right: 600px;
     margin-left: 15px;
-    margin-bottom: 30px;
+    
+    justify-content: space-around;
 }
 
 .myproject {
@@ -99,8 +120,11 @@ button:hover {
     margin-right: px;
 
 }
-
-.container3 {display: flex; 
+.container3 h1 {
+    margin-left: 40px;
+    text-decoration: underline;
+}
+.container3  {display: flex; 
     display: flex;
     flex-direction: row;
     margin-top: 15px;
